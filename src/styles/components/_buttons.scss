@@ -1,0 +1,18 @@
+.btn-primary{
+  font-family: $font-family-highlight;
+  font-weight: $font-weight-medium;
+  font-size: $font-size-sm;
+  color: $color-neutral-lightest;
+  background-color: $color-brand-primary-medium;
+  min-width: 108px;
+  border-width: $border-width-thick;
+  border-color: $color-brand-primary-medium;
+  vertical-align: middle;
+  border-style: solid;
+  text-align: center;
+  padding: $spacing-squish-lg;
+  &:hover{
+    color: $color-brand-primary-medium;
+    background-color: $color-neutral-lightest;
+  }
+}

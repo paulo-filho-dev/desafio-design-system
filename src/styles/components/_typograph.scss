@@ -1,0 +1,30 @@
+.heading{
+  font-family: $font-family-highlight;
+  font-weight: $font-weight-bold;
+  color: $color-neutral-darkest;
+  &__lg{
+    font-size: $font-size-xxxl;
+  }
+  &__md{
+    font-size: $font-size-xl;
+  }
+  &__sm{
+    font-size: $font-size-md;
+  }
+  &__xs{
+    font-size: $font-size-sm;
+  }
+}
+.subtitle{
+  font-family: $font-family-highlight;
+  font-weight: $font-weight-medium;
+  font-size: $font-size-md;
+  color: $color-neutral-dark;
+}
+.paragraph{
+  font-family: $font-family-highlight;
+  font-weight: $font-weight-regular;
+  font-size: $font-size-sm;
+  color: $color-neutral-dark;
+  line-height: 20px;
+}

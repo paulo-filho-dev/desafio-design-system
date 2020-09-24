@@ -1,0 +1,19 @@
+
+$namespace: "spacing-stack";
+
+.#{$namespace}-xxxs{
+  margin-bottom: 4px;
+}
+.#{$namespace}-xxs{
+  margin-bottom: 8px;
+}
+.#{$namespace}-xs{
+  margin-bottom: 16px;
+}
+.#{$namespace}-sm{
+  margin-bottom: 24px;
+}
+.#{$namespace}-md{
+  margin-bottom: 32px;
+}
+
